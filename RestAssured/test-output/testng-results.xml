@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="11145" started-at="2019-09-07T07:22:09Z" finished-at="2019-09-07T07:22:20Z">
+  <suite name="Default suite" duration-ms="9244" started-at="2019-09-07T10:42:23Z" finished-at="2019-09-07T10:42:32Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="11145" started-at="2019-09-07T07:22:09Z" finished-at="2019-09-07T07:22:20Z">
-      <class name="codepackage.RestAssured.Test1">
-        <test-method status="PASS" signature="API_check()[pri:0, instance:codepackage.RestAssured.Test1@6fa38a]" name="API_check" duration-ms="11095" started-at="2019-09-07T07:22:09Z" finished-at="2019-09-07T07:22:20Z">
+    <test name="Default test" duration-ms="9244" started-at="2019-09-07T10:42:23Z" finished-at="2019-09-07T10:42:32Z">
+      <class name="codepackage.RestAssured.Add_and_Delete">
+        <test-method status="PASS" signature="addDelete()[pri:0, instance:codepackage.RestAssured.Add_and_Delete@6fa38a]" name="addDelete" duration-ms="9199" started-at="2019-09-07T10:42:23Z" finished-at="2019-09-07T10:42:32Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- API_check -->
-      </class> <!-- codepackage.RestAssured.Test1 -->
+        </test-method> <!-- addDelete -->
+      </class> <!-- codepackage.RestAssured.Add_and_Delete -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

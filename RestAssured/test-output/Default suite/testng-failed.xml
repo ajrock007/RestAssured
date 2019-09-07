@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="codepackage.RestAssured.Test1">
+      <class name="codepackage.RestAssured.Add_and_Delete">
         <methods>
-          <include name="API_check"/>
+          <include name="addDelete"/>
         </methods>
-      </class> <!-- codepackage.RestAssured.Test1 -->
+      </class> <!-- codepackage.RestAssured.Add_and_Delete -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
